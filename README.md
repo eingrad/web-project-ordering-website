@@ -6,7 +6,7 @@ This project is about ordering online food for Murni Fried Chicken restaurants. 
 
 ## Installation
 
-In XAMPP, just create new database in phpmyadmin and import SQL file which is located in online_res.sql directory.
+In XAMPP, just create new database in phpmyadmin and import SQL file which is located in online_res.sql.
 
 ## Admin Page
 
