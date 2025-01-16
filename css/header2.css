@@ -1,0 +1,29 @@
+body{
+    background: #FFFFFF;
+}
+
+.header {
+    padding: 18px;
+    background: #000;
+    color: white;
+    font-size: 15px;
+}
+  
+/* Page Content */  
+.content {
+    padding:20px;
+}
+
+.message2{
+    text-align: center;
+    background: #ffffff;
+    padding: 15px 0px;
+    border:1px solid #699053;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    color: rgb(0, 255, 34);
+}
+
+.a {
+    font-family: 'Poppins',sans-serif;
+}
